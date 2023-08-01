@@ -17,7 +17,7 @@ Alt-H2
 ------
 
 
-#Emphasis
+# Emphasis
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
@@ -27,7 +27,7 @@ Combined emphasis with **asterisks and _underscores_**.
 Strikethrough uses two tildes. ~~Scratch this.~~
 
 
-#Lists
+# Lists
 1. First ordered list item
 2. Another item
 ⋅⋅* Unordered sub-list. 
@@ -46,7 +46,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 + Or pluses
 
 
-#Links
+# Links
 [I'm an inline-style link](https://www.google.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
@@ -70,7 +70,7 @@ Some text to show that the reference links can follow later.
 [link text itself]: http://www.reddit.com
 
 
-#Images
+# Images
 Here's our logo (hover to see the title text):
 
 Inline-style: 
@@ -82,7 +82,7 @@ Reference-style:
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
-#Footnotes
+# Footnotes
 Here is a simple footnote[^1].
 
 A footnote can also have multiple lines[^2].  
@@ -96,7 +96,7 @@ You can also use words, to fit your writing style more closely[^note].
     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
     This footnote also has been made with a different syntax using 4 spaces for new lines.
 
-#Tables
+# Tables
 Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |
@@ -110,6 +110,8 @@ The outer pipes (|) are optional, and you don't need to make the
 raw Markdown line up prettily. You can also use inline Markdown.
 
 Markdown | Less | Pretty
+
+### Footnotes
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
