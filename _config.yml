@@ -1,14 +1,14 @@
-title: Your awesome title
+title: Linley Lab
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Stuart Linley
+  email: linleys@mcmaster.ca
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  The Linley Lab is an interdisciplinary chemical engineering research group
+  at McMaster University focused on engineering and applying functional materials
+  for environmental and sustainability applications.
 
 # Build settings
 
@@ -34,7 +34,7 @@ minima:
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
   #   - { platform: github,         user_url: "https://github.com/jekyll/minima" }
-  #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=xXFoIcQAAAAJ" }
   #   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
   #   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
