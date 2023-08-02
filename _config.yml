@@ -1,14 +1,14 @@
-title: Linley Lab
+title: Your awesome title
 author:
-  name: name
-  email: email
+  name: GitHub User
+  email: your-email@domain.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  The Linley Lab is hosted in the Department of Chemical Engineering at McMaster University.
-  Our work focuses on developing functional composites and nanomaterials for applications
-  in environmental remediation and green chemistry.
+  Write an awesome description for your new site here. You can edit this line
+  in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
 
 # Build settings
 
@@ -28,13 +28,13 @@ minima:
 
   # Generate social links in footer.
   #
-   social_links:
+  # social_links:
   #   - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
   #   - { platform: github,         user_url: "https://github.com/jekyll/minima" }
-     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=xXFoIcQAAAAJ" }
+  #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
   #   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
   #   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
@@ -48,9 +48,9 @@ minima:
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
-header_pages:
-  - page1.md
-  - page2.md
+# header_pages:
+#   - about.md
 
 # Set to `true` to show excerpts on the homepage.
-# 
+#
+# show_excerpts: false
