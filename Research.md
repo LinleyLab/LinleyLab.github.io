@@ -26,4 +26,4 @@ organic byproducts and free protons. Those protons are then reduced to form H<su
 
 ![Solar reforming schematic](/assets/Images/Reforming.png)
 
-Image created by Stuart Linley, as seen in [10.1002/advs.202207314](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207314)
+Image created by Stuart Linley, as seen in [![DOI logo](/assets/Images/doi.png)](https://doi.org/10.1002/advs.202207314)[Floating Carbon Nitride Composites for Practical Solar Reforming of Pre-Treated Wastes to Hydrogen Gas](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207314)
