@@ -20,3 +20,10 @@ This can be done using photocatalysts (or photocatalyst composites) to drive oxi
 electrons to make high-energy molecules and accept electrons to break down waste. This means we can simultaneously treat wastewater 
 containing organic contaminants and produce CO<sub>2</sub>-free fuels such as H<sub>2</sub>.
 
+Below, sunlight is used to power solar photocatalytic reforming using a floating photocatalyst composite, breaking down waste carbon into
+organic byproducts and free protons. Those protons are then reduced to form H<sub>2</sub> gas.
+
+
+![Solar reforming schematic](/assets/Images/Reforming.png)
+
+Image created by Stuart Linley, as seen in [10.1002/advs.202207314](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207314)
