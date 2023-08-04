@@ -1,5 +1,6 @@
 ---
 title: Publications
+order: 3
 ---
 
 ## Journal Articles
