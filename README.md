@@ -1,10 +1,4 @@
----
-title: Home
-order: 0
----
-
-## Sustainable Fuels and Chemicals
---------------
+**Sustainable Fuels and Chemicals**
 
 The chemicals industry accounts for 30% of industrial energy use and 14% of global oil demand, half of which is used as feedstocks to make the chemicals we need for every day life.
 
@@ -12,7 +6,7 @@ Every year, consumers discard 2 billion tonnes of waste, of which 1.4 billion to
 
 By producing fuels from fossil feedstocks, every year we dump the equivalent of 8.1 billion tonnes of CO<sub>2</sub> into the atmosphere. Even our leading fuel replacement, H<sub>2</sub> is carbon-positive, with 95% of hydrogen on the market produced from methane:
 
-<p align="center"
+<p align="center">
   <img src="/assets/Images/SMR.png" width="280" />
 </p>
 
