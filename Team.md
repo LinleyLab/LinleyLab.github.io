@@ -1,5 +1,6 @@
 ---
 title: Team
+order: 2
 ---
 
 ## Principal Investigator
