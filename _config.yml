@@ -49,7 +49,7 @@ minima:
 # order as they should show up.
 #
  header_pages:
-   - Research.md
+   - Research
 #   - Team.md
 #   - Publications.md
 #   - Opportunities.md
