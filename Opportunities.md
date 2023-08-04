@@ -31,7 +31,7 @@ predict the value of solar reforming systems in a technological transition.
 
 We are currently hiring and considering applications for Masters and PhD students.
 
-#### Position requirements:
+**Position requirements:**
 - Bachelor's degree in: Chemical Engineering, Materials Engineering, Environmental Engineering, Chemistry, Materials Science or related disciplines
 - Practical skills in one of the three theme areas listed above
   - Wet-chemistry laboratory techniques
@@ -51,7 +51,9 @@ We are currently hiring and considering applications for Masters and PhD student
 2. Transcript
 3. Brief personal statement expressing your interests and intentions in working with our group
 
+------------------
+
 Engineering at McMaster is a highly diverse and accepting work environment cultivating a culture of [Inclusive Excellence](https://www.eng.mcmaster.ca/about/faculty-recruitment/diversity-and-inclusion/).
-The Linley lab is committed to contributing to and improving this initiative, and recognizes the unique contributions you can
+The Linley Lab is committed to contributing to and improving this initiative, and recognizes the unique contributions you can
 bring from your education, culture, ethnicity, gender identity and expression, sexual orientaion, nation of origin,
 age, religion, disability, and beliefs.
