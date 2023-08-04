@@ -12,4 +12,6 @@ By producing fuels from fossil feedstocks, every year we dump the equivalent of 
 
 The Linley Lab is working on direct sunlight-powered solutions for sustainable production of fuels and chemicals from waste carbon to reduce the environmental impact of industry. Our core interest is solar reforming, a photocatalytic process that uses electrons from waste carbon to produce high-energy molecules like H<sub>2</sub>.
 
-<img src="/assets/Images/PC.png" width="640" />
+<p align="center">
+  <img src="/assets/Images/PC.png" width="640" />
+</p>
