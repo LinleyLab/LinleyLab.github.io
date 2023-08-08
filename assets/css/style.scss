@@ -5,3 +5,10 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.site-title::before {
+	content: url("/assets/Images/LL_Favicon_Large.png");
+	display: inline-block;
+	position: relative;
+  padding-right: 5px;
+}
