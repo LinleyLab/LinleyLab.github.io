@@ -11,6 +11,13 @@
   position: relative;
 }
 
+.site-title::before {
+  content: url("/assets/Images/LL_Favicon_Large.png");
+  display: inline-block;
+  position: relative;
+  padding-right: 5px;
+}
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
