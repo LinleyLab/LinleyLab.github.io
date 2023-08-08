@@ -7,7 +7,7 @@
 	position: relative;
   width: 32px;
   top: 5px;
-  padding-right: 5px;
+  padding-right: 10px;
 }
 
 .site-title {
@@ -16,7 +16,6 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  padding-left: 37px;
 
   @include media-query($on-palm) {
     padding-right: 45px;
