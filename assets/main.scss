@@ -1,0 +1,12 @@
+---
+# Front Matter
+---
+
+@import "minima";
+
+.site-title::before {
+	content: url("/alsprolog-logo.png");
+	display: inline-block;
+	position: relative;
+  padding-right: 5px;
+}
