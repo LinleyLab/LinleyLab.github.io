@@ -1,2 +1,10 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.site-title::before {
+	content: url("/assets/Images/LL_Favicon_Large.png");
+	display: inline-block;
+	position: relative;
+  width: 32px;
+  top: 5px;
+}
