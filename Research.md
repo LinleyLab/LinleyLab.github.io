@@ -22,7 +22,7 @@ photocatalyst with a strong magnetic field. These changes make our photocatalyst
 ## Solar Photocatalytic Reforming
 
 <p align="justify">
-<img style="margin-left: 1rem;margin-top: 0.5rem" align="right" src="/assets/Images/Reforming_Home.png" width="400"> Solar reforming (SR) is a sunlight-driven process that enables circular use of waste carbon by transforming it into useful products.
+<img style="margin-left: 1rem;margin-top: 0.5rem" align="right" src="/assets/Images/Reforming_Home.png" width="350"> Solar reforming (SR) is a sunlight-driven process that enables circular use of waste carbon by transforming it into useful products.
 This can be done using photocatalysts (or photocatalyst composites) to drive oxidation and reduction reactions. The catalyst can donate
 electrons to make high-energy molecules and accept electrons to break down waste. This means we can simultaneously treat wastewater 
 containing organic contaminants and produce CO<sub>2</sub>-free fuels such as H<sub>2</sub>.
