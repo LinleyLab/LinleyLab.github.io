@@ -7,24 +7,30 @@ order: 4
 
 ### Develop and apply new photocatalyst composites
 
+<p align="justify">
 Investigate combinations of catalysts and supports to develop robust, re-usable photocatalyst materials. Explore catalyst
 functionalization and modification strategies to improve light utilization, reaction kinetics, and production rates.
 Gain experience with a wide variety of synthetic techniques, then characterize materials before and after composite
 application. Identify leading composite candidates and scale production for wastewater treatment and solar reforming applications.
+</p>
 
 ### Investigate solar reforming of real and model waste
 
+<p align="justify">
 Using standard photocatalyst materials, explore solar reforming on a variety of model waste compounds. Characterize and quantify
 organic by-products and H<sub>2</sub> production rates to gain insight on how waste composition and solvent matrix affect the
 reforming process. Investigate physical and chemical pre-treatment methods on real and model waste compounds to expand the
 scope of solar reforming application.
+</p>
 
 ### Build and optimize solar reforming reactors
 
+<p align="justify">
 Design reactors for optimized solar reforming by incorporating light management, gas collection, continuous operation, and 
 feedback control. Model reactor performance supported by empirical data and investigate how design can improve waste treatment,
-value product generation, process rates, and resilience under natural operating conditions. Perform technoeconomic analyses to
+value generation, process rates, and resilience under natural operating conditions. Perform technoeconomic analyses to
 predict the value of solar reforming systems in a technological transition.
+</p>
 
 ---------------
 
@@ -54,7 +60,9 @@ We are currently hiring and considering applications for Masters and PhD student
 
 ------------------
 
+<p align="justify">
 Engineering at McMaster is a highly diverse and accepting work environment cultivating a culture of [Inclusive Excellence](https://www.eng.mcmaster.ca/about/faculty-recruitment/diversity-and-inclusion/).
 The Linley Lab is committed to contributing to and improving this initiative, and recognizes the unique contributions you can
 bring from your education, culture, ethnicity, gender identity and expression, sexual orientaion, nation of origin,
 age, religion, disability, and beliefs.
+</p>
