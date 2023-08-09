@@ -2,7 +2,7 @@
 title: Research
 order: 1
 ---
-
+---------------
 
 Our research team is investigating functional materials for sustainability applications
 
@@ -13,6 +13,10 @@ how heterogenous photocatalysts can be improved through modification and incorpo
 by attaching photocatalysts to low-density supports we can make a material that floats in water, is easy to re-use, and concentrates the
 photocatalyst at the surface of the water. By incorporating magnetic nanoparticles in a photocatalyst composite, we can collect the
 photocatalyst with a strong magnetic field. These changes make our photocatalysts more useful than they are on their own.
+
+<p align="center">
+  <img src="assets/Images/SEM1.png" width="300" alt="SEM Image of Carbon Nitride on Glass Spheres"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/Images/SEM2.png" width="300" alt="SEM Image of Carbon Nitride on Glass Spheres"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/Images/TEM1.png" width="300" alt="TEM Image of Carbon Nitride on Glass Spheres">
+</p>
 
 ## Solar Photocatalytic Reforming
 
