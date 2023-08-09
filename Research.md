@@ -15,7 +15,7 @@ photocatalyst at the surface of the water. By incorporating magnetic nanoparticl
 photocatalyst with a strong magnetic field. These changes make our photocatalysts more useful than they are on their own.
 
 <p align="center">
-  <img src="assets/Images/SEM1.png" width="300" alt="SEM Image of Carbon Nitride on Glass Spheres"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/Images/SEM2.png" width="300" alt="SEM Image of Carbon Nitride on Glass Spheres"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/Images/TEM1.png" width="300" alt="TEM Image of Carbon Nitride on Glass Spheres">
+  <img src="assets/Images/SEM1.png" width="200" alt="SEM Image of Carbon Nitride on Glass Spheres"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/Images/SEM2.png" width="200" alt="SEM Image of Carbon Nitride on Glass Spheres"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/Images/TEM1.png" width="200" alt="TEM Image of Carbon Nitride on Glass Spheres">
 </p>
 
 ## Solar Photocatalytic Reforming
