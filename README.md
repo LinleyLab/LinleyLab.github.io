@@ -1,10 +1,13 @@
-**Sustainable Fuels and Chemicals**
+<p align="center">
+<b>Welcome to the Linley Lab</b>
+</p>
+<p align="justify">The Linley Lab is an interdisciplinary chemical engineering research group at McMaster University focused on engineering and applying functional materials for environmental and sustainability applications.</p>
 
-The chemicals industry accounts for 30% of industrial energy use and 14% of global oil demand, half of which is used as feedstocks to make the chemicals we need for every day life.
+### The Linear Economy
 
-Every year, consumers discard 2 billion tonnes of waste, of which 1.4 billion tonnes goes directly to landfill.
+Our every day life is made possible through thousands of different chemicals - everything from your dish soap to your t-shirts are derived from oil-based chemicals. The expansive chemicals industry accounts for 30% of industrial energy use and 14% of global oil demand, half of which is used as feedstock material. Every year, consumers discard 2 billion tonnes of waste, of which 1.4 billion tonnes goes directly to landfill.
 
-By producing fuels from fossil feedstocks, every year we dump the equivalent of 8.1 billion tonnes of CO<sub>2</sub> into the atmosphere. Even our leading fuel replacement, H<sub>2</sub> is carbon-positive, with 95% of hydrogen on the market produced from methane:
+By producing fuels from fossil feedstocks, every year we release 8.1 billion tonnes of CO<sub>2</sub> equivalents into the atmosphere. Even our leading fuel replacement, H<sub>2</sub> is carbon-positive, with 95% of hydrogen on the market produced from methane:
 
 <p align="center">
   <img src="/assets/Images/SMR.png" width="280" />
