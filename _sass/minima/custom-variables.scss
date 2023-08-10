@@ -28,6 +28,11 @@
 
 .flex-child:first-child {
     flex: 0.5;
-    margin-right: 20px;
+    margin-right: 10px;
+} 
+
+.flex-child:second-child {
+    flex: 0;
+    margin-right: 10px;
     border-right: 1px solid grey;
 } 
