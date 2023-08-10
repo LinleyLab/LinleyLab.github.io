@@ -61,7 +61,7 @@ We are currently hiring and considering applications for Masters and PhD student
 ------------------
 
 <p align="justify">
-Engineering at McMaster is a highly diverse and accepting work environment cultivating a culture of [Inclusive Excellence](https://www.eng.mcmaster.ca/about/faculty-recruitment/diversity-and-inclusion/).
+Engineering at McMaster is a highly diverse and accepting work environment cultivating a culture of <a href="https://www.eng.mcmaster.ca/about/faculty-recruitment/diversity-and-inclusion/">Inclusive Excellence</a>.
 The Linley Lab is committed to contributing to and improving this initiative, and recognizes the unique contributions you can
 bring from your education, culture, ethnicity, gender identity and expression, sexual orientaion, nation of origin,
 age, religion, disability, and beliefs.
