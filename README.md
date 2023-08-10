@@ -1,4 +1,4 @@
-<h1 class="center">Welcome to the Linley Lab</h1>
+<h1 class="text-center">Welcome to the Linley Lab</h1>
 <p align="center">
   We are an interdisciplinary chemical engineering research group at McMaster University focused on developing and testing functional materials for environmental and sustainability applications.
 </p>
