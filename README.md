@@ -20,6 +20,9 @@
       Stuart arrives at McMaster, excited to start his own research group
     
   </div>
+
+  <div class="flex-child blue">
+  </div>
   
   <div class="flex-child green">
     <h2>Sustainability</h2>
