@@ -8,7 +8,7 @@
 <div class="flex-container">
 
   <div class="flex-child magenta">
-    <h4>Recent News</h4>
+    <h2>Recent News</h2>
     <hr>
     <b>10/08/2023</b>
     <br>
@@ -22,7 +22,7 @@
   </div>
   
   <div class="flex-child green">
-    <h3>Sustainability</h3>
+    <h2>Sustainability</h2>
     <hr>
     <p align="justify">
       Our every day life is made possible through thousands of different chemicals - everything from your dish soap to your t-shirts are derived from oil-based chemicals. The expansive chemicals industry accounts for 30% of industrial energy use and 14% of global oil demand, half of which is used as feedstock material. Much of what we create was never intended for perpetual use: every year, consumers discard 2 billion tonnes of waste, of which 1.4 billion tonnes goes directly to landfill.
