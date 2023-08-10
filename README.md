@@ -11,7 +11,7 @@
     <hr>
     <b>10/08/2023</b>
     <br>
-      Positions are open for Master's and PhD students! Check the <a href="/Opportunities.md">Opportunities</a> page for details!
+      Positions are open for Master's and PhD students! Check the <a href="/Opportunities.html">Opportunities</a> page for details!
 
     <hr>
     <b>10/07/2023</b>
