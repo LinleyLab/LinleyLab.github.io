@@ -3,6 +3,19 @@
 </p>
 <p align="justify">The Linley Lab is an interdisciplinary chemical engineering research group at McMaster University focused on engineering and applying functional materials for environmental and sustainability applications.</p>
 
+<div class="float-container">
+
+  <div class="float-child">
+    <div class="green">Float Column 1</div>
+  </div>
+  
+  <div class="float-child">
+    <div class="blue">Float Column 2</div>
+  </div>
+  
+</div>
+
+
 ### The Linear Economy
 
 Our every day life is made possible through thousands of different chemicals - everything from your dish soap to your t-shirts are derived from oil-based chemicals. The expansive chemicals industry accounts for 30% of industrial energy use and 14% of global oil demand, half of which is used as feedstock material. Every year, consumers discard 2 billion tonnes of waste, of which 1.4 billion tonnes goes directly to landfill.
