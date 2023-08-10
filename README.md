@@ -3,15 +3,15 @@
 </p>
 <p align="justify">The Linley Lab is an interdisciplinary chemical engineering research group at McMaster University focused on engineering and applying functional materials for environmental and sustainability applications.</p>
 
-<div class="grid-container">
+<div class="flex-container">
 
-    <div class="grid-child purple">
-        Grid Column 1
-    </div>
-
-    <div class="grid-child green">
-        Grid Column 2
-    </div>
+  <div class="flex-child magenta">
+    Flex Column 1
+  </div>
+  
+  <div class="flex-child green">
+    Flex Column 2
+  </div>
   
 </div>
 
