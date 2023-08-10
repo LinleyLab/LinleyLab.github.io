@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Welcome to the Linley Lab</b>
+  <h2>Welcome to the Linley Lab</h2>
 </p>
 <p align="center">
   We are an interdisciplinary chemical engineering research group at McMaster University focused on developing and testing functional materials for environmental and sustainability applications.
@@ -17,7 +17,7 @@
     <hr>
     <b>10/07/2023</b>
     <br>
-      Stuart arrives at McMaster, excited to start his own research group
+      The Linley Lab goes live
     
   </div>
 
