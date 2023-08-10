@@ -31,7 +31,7 @@
     margin-right: 10px;
 } 
 
-.flex-child:second-child {
+.flex-child:nth-child(2) {
     flex: 0.001;
     margin-right: 10px;
     border-right: 1px solid grey;
