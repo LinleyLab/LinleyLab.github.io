@@ -12,7 +12,7 @@ order: 3
 1. [Floating Carbon Nitride Composites for Practical Solar Reforming of Pre-Treated Wastes to Hydrogen Gas](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207314)\
    **Stuart Linley**, Erwin Reisner\
    2023 [![DOI logo](/assets/Images/doi.png)](https://doi.org/10.1002/advs.202207314) Advanced Science 10 (21), 2207314
-1. [Comproportionation of CO2 and Cellulose to Formate Using a Floating Semiconductor-Enzyme Photoreforming Catalyst](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202215894)\
+1. [Comproportionation of CO<sub>2</sub> and Cellulose to Formate Using a Floating Semiconductor-Enzyme Photoreforming Catalyst](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202215894)\
    Erwin Lam, Melanie Miller, **Stuart Linley**, Rita R. Manuel, Inês A. C. Pereira, Erwin Reisner\
    2023 [![DOI logo](/assets/Images/doi.png)](https://doi.org/10.1002/anie.202215894) Angewandte Chemie International Edition 62 (20), e202215894
 1. [Targeted delivery of nanoparticles to a heterogeneous crude oil zone in an unsaturated porous medium](https://pubs.rsc.org/en/content/articlehtml/2023/ew/d3ew00130j)\
