@@ -11,3 +11,9 @@
     padding: 20px;
     border: 2px solid red;
 }  
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 20px;
+}
