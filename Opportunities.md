@@ -36,7 +36,7 @@ predict the value of solar reforming systems in a technological transition.
 
 ## Join Us
 
-We are currently hiring and considering applications for Masters and PhD students.
+All available research positions have currently been filled, but we are constantly looking for talented researchers that may augment our team in the future.
 
 **Position requirements:**
 - Bachelor's degree in: Chemical Engineering, Materials Engineering, Environmental Engineering, Chemistry, Materials Science or related disciplines
