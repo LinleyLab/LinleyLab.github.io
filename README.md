@@ -9,6 +9,11 @@
   <div class="flex-child magenta">
     <h2>Recent News</h2>
     <hr>
+    <b>30/01/2024</b>
+    <br>
+      Stuart's new review on solar reforming published in <a href="https://www.nature.com/articles/s41570-023-00567-x">Nature Reviews Chemistry</a>
+    
+    <hr>
     <b>10/08/2023</b>
     <br>
       Positions are open for Master's and PhD students! Check the <a href="/Opportunities.html">Opportunities</a> page for details!
