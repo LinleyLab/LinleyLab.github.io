@@ -6,6 +6,9 @@ order: 3
 
 ## Journal Articles
 
+1. [Solar reforming as an emerging technology for circular chemical industries](https://www.nature.com/articles/s41570-023-00567-x)\
+   **Stuart Linley**, Subhajit Bhattacharjee, Erwin Reisner\
+   2024 [![DOI logo](/assets/Images/doi.png)](https://doi.org/10.1038/s41570-023-00567-x) Nature Reviews Chemistry 8, 87-105
 1. [Unsaturated Transport and Targeted Binding of Pluronic-Coated Nanoparticles: Lysimeter Experiments](https://ascelibrary.org/doi/full/10.1061/JOEEDU.EEENG-7255)\
    Najmeh Jaberi, **Stuart Linley**, Neil R. Thomson, Kevin McVey, Kammy Sra, Frank X. Gu\
    2023 [![DOI logo](/assets/Images/doi.png)](https://doi.org/10.1061/JOEEDU.EEENG-7255) Journal of Environmental Engineering 149 (9), 04023044
