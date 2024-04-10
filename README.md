@@ -8,6 +8,12 @@
 
   <div class="flex-child magenta">
     <h2>Recent News</h2>
+
+    <hr>
+    <b>10/04/2024</b>
+    <br>
+      Stuart has been awarded an NSERC Discovery Grant to pursue his research program on solar reforming!
+      
     <hr>
     <b>30/01/2024</b>
     <br>
