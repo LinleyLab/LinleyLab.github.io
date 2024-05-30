@@ -10,6 +10,11 @@
     <h2>Recent News</h2>
 
     <hr>
+    <b>30/05/2024</b>
+    <br>
+      Stuart will be speaking at the 24th International Conference on Photochemical Conversion and Storage of Solar Energy in Hiroshima, Japan (July 28 - August 2). Come and say hello if you happen to be in attendance!
+
+    <hr>
     <b>10/04/2024</b>
     <br>
       Stuart has been awarded an NSERC Discovery Grant to pursue his research program on solar reforming!
