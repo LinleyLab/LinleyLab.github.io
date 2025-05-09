@@ -18,10 +18,8 @@ Stuart's specific research pursuits have included reusable photocatalyst composi
 #### Alibek Kurbanov
 ##### MASc - Chemical Engineering
 
-<p align="justify"><img style="margin-right: 1rem;margin-top: 0.5rem" align="right" src="/assets/Images/Alibek_Kurbanov_Headshot.jpg" width="280"> Alibek Kurbanov is from Turkmenistan and completed his B.Eng in Chemical Engineering at Tianjin University in China under a fully funded CSC scholarship. He has a background in photocatalysis with two co-authored publications on developing catalytic materials for hydrogen evolution from ammonia-borane using a Pt@Ni<sub>2</sub>PC<sub>3</sub>N<sub>4</sub> photocatalyst (<a href="https://doi.org/10.1016/j.ijhydene.2023.03.218">International Journal of Hydrogen Energy, 2023</a>) and Au nanoparticles for enhanced charge transfer (<a href="https://doi.org/10.1016/j.jcis.2023.01.122">Journal of Colloid and Interface Science, 2023</a>).</p>
+<p align="justify"><img style="margin-left: 1rem;margin-top: 0.5rem" align="right" src="/assets/Images/Alibek_Kurbanov_Headshot.jpg" width="280"> Alibek Kurbanov is from Turkmenistan and completed his B.Eng in Chemical Engineering at Tianjin University in China under a fully funded CSC scholarship. He has a background in photocatalysis with two co-authored publications on developing catalytic materials for hydrogen evolution from ammonia-borane (<a href="https://doi.org/10.1016/j.ijhydene.2023.03.218">International Journal of Hydrogen Energy, 2023</a>; <a href="https://doi.org/10.1016/j.jcis.2023.01.122">Journal of Colloid and Interface Science, 2023</a>).</p>
   
-<p align="justify">Alibek is currently pursuing his MASc in Chemical Engineering at McMaster University. His research focuses on developing floating carbon nitride-based photocatalysts for solar-driven hydrogen production and wastewater treatment. Outside the lab, Alibek is a table tennis player and regularly competes in local tournaments across Ontario.</p>
-
-<p align="justify">Alibek can be reached at <a href="mailto:kurbanoa@mcmaster.ca">kurbanoa@mcmaster.ca</a></p>
+<p align="justify">Alibek is currently pursuing his MASc in Chemical Engineering at McMaster University. His research focuses on developing floating carbon nitride-based photocatalysts for solar-driven hydrogen production and wastewater treatment. Outside the lab, Alibek is a table tennis player and regularly competes in local tournaments across Ontario. Alibek can be reached at <a href="mailto:kurbanoa@mcmaster.ca">kurbanoa@mcmaster.ca</a></p>
 
 --------------
