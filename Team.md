@@ -23,3 +23,9 @@ Stuart's specific research pursuits have included reusable photocatalyst composi
 <p align="justify">Alibek is currently pursuing his MASc in Chemical Engineering at McMaster University. His research focuses on developing floating carbon nitride-based photocatalysts for solar-driven hydrogen production and wastewater treatment. Outside the lab, Alibek is a table tennis player and regularly competes in local tournaments across Ontario. Alibek can be reached at <a href="mailto:kurbanoa@mcmaster.ca">kurbanoa@mcmaster.ca</a></p>
 
 --------------
+## Undergraduate Students
+#### Julie Liu
+##### BEng - Chemical and Biomedical Engineering
+
+<p align="justify">Julie is a second-year co-op student studying Chemical and Biomedical Engineering at McMaster University. She is currently an NSERC USRA holder working on testing floating photocatalytic composites for sustainable solar reforming of wastewater products into usable hydrogen. Her research interests lie in anything chemistry-related, particularly topics associated with process systems, materials science, environmental sustainability, biotechnology and drug development. In her free time, she enjoys folding origami, figure skating, and reading.</p>
+
