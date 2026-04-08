@@ -5,7 +5,15 @@ order: 3
 ---------------
 
 ## Journal Articles
-
+1. [Floating solar technologies for sustainable chemical synthesis on open water](https://www.nature.com/articles/s44286-025-00349-w)\
+   **Stuart Linley**, Chanon Pornrungroj, Erwin Reisner\
+   2026 [![DOI logo](/assets/Images/doi.png)](https://doi.org/10.1038/s44286-025-00349-w) Nature Chemical Engineering 3, 34-46
+1. [Floatable carbon nitride-plastic composite for paired photocatalysis at the liquid-liquid interface](https://www.cell.com/chem/fulltext/S2451-9294(25)00418-8)\
+   Andrea Rogolino, **Stuart Linley**, Papa Kwakye Kwarteng, Shannon A. Bonke, Carolina Pulignani, Erwin Reisner\
+   2025 [![DOI logo](/assets/Images/doi.png)](https://doi.org/10.1016/j.chempr.2025.102827) Chem 102827
+1. [Solar Reforming: Sunlight-Driven Waste to Chemicals for a Bright Future (editorial)](https://pubs.acs.org/doi/full/10.1021/acsaenm.5c01000)\
+   **Stuart Linley**\
+   2025 [![DOI logo](/assets/Images/doi.png)](https://doi.org/10.1021/acsaenm.5c01000) ACS Applied Engineering Materials 3(11), 3652-3654
 1. [Solar reforming as an emerging technology for circular chemical industries](https://www.nature.com/articles/s41570-023-00567-x)\
    **Stuart Linley**, Subhajit Bhattacharjee, Erwin Reisner\
    2024 [![DOI logo](/assets/Images/doi.png)](https://doi.org/10.1038/s41570-023-00567-x) Nature Reviews Chemistry 8, 87-105
