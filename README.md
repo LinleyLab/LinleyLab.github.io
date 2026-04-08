@@ -10,29 +10,24 @@
     <h2>Recent News</h2>
 
     <hr>
-    <b>30/05/2024</b>
+    <b>08/04/2026</b>
     <br>
-      Stuart will be speaking at the 24th International Conference on Photochemical Conversion and Storage of Solar Energy in Hiroshima, Japan (July 28 - August 2). Come and say hello if you happen to be in attendance!
+      Stuart will be chairing a symposium on (CA) Catalysis: Photochemistry, Artificial Photosynthesis, and Solar Fuels at <a href="https://www.cheminst.ca/conference/x2026/program/program-overview/"x2026</a> from May 24-28 in Toronto. Come and say hi and learn about exciting advances in the world of solar fuels.
 
     <hr>
-    <b>10/04/2024</b>
+    <b>30/01/2026</b>
     <br>
-      Stuart has been awarded an NSERC Discovery Grant to pursue his research program on solar reforming!
+      We are thrilled to welcome Kora Rakhsha to the team as our first Postdoctoral Fellow!
       
     <hr>
-    <b>30/01/2024</b>
+    <b>27/01/2026</b>
     <br>
-      Stuart's new review on solar reforming published in <a href="https://www.nature.com/articles/s41570-023-00567-x">Nature Reviews Chemistry</a>
+      Stuart's new perspective on floating solar reforming published in <a href="https://www.nature.com/articles/s44286-025-00349-w">Nature Chemical Engineering</a>
     
     <hr>
-    <b>10/08/2023</b>
+    <b>05/09/2025</b>
     <br>
-      Positions are open for Master's and PhD students! Check the <a href="/Opportunities.html">Opportunities</a> page for details!
-
-    <hr>
-    <b>10/07/2023</b>
-    <br>
-      The Linley Lab goes live
+      We are thrilled to welcome Emma Brakwah to the team as our second PhD student!
     
   </div>
 
