@@ -12,7 +12,7 @@
     <hr>
     <b>08/04/2026</b>
     <br>
-      Stuart will be chairing a symposium on (CA) Catalysis: Photochemistry, Artificial Photosynthesis, and Solar Fuels at <a href="https://www.cheminst.ca/conference/x2026/program/program-overview/"x2026</a> from May 24-28 in Toronto. Come and say hi and learn about exciting advances in the world of solar fuels.
+      Stuart will be chairing a symposium on (CA) Catalysis: Photochemistry, Artificial Photosynthesis, and Solar Fuels at <a href="https://www.cheminst.ca/conference/x2026/program/program-overview/">x2026</a> from May 24-28 in Toronto. Come and say hi and learn about exciting advances in the world of solar fuels.
 
     <hr>
     <b>30/01/2026</b>
