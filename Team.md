@@ -25,7 +25,7 @@ Stuart's specific research pursuits have included reusable photocatalyst composi
 #### Tomal Saha
 ##### PhD - Chemical Engineering
 
-<p align="justify"><img style="margin-left: 1rem;margin-top: 0.5rem" align="right" src="/assets/Images/Tomal_Saha_Headshot.JPG" width="280">Tomal Saha is from Bangladesh and completed his B.Sc. in Materials and Metallurgical Engineering at BUET with Honors. His background includes work on photocatalysis and functional oxide materials, with a focus on synthesis and characterization techniques. He has worked on Gd-doped TiO₂ nanoparticles for photocatalytic environmental remediation and Er-substituted LaFeO₃ perovskite nanoparticles for pseudocapacitive energy storage, exploring defect engineering and charge transport in functional materials.</p>
+<p align="justify"><img style="margin-left: 1rem;margin-top: 0.5rem" align="right" src="/assets/Images/Tomal_Saha_Headshot.JPG" width="280">Tomal Saha is from Bangladesh and completed his B.Sc. in Materials and Metallurgical Engineering at BUET with Honors. His background includes work on photocatalysis and synthesis of functional oxide materials. He has worked on Gd-doped TiO₂ nanoparticles for photocatalytic environmental remediation and Er-substituted LaFeO₃ perovskite nanoparticles for pseudocapacitive energy storage , exploring defect engineering and charge transport in functional materials.</p>
 
 <p align="justify">He is currently pursuing his PhD in Chemical Engineering at McMaster University. His research interests focus on photocatalysis and electrochemical systems for sustainable energy and environmental applications, particularly in designing materials for solar-driven processes and efficient utilization of waste-derived resources.</p>
 
