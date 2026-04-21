@@ -16,11 +16,18 @@ Stuart's specific research pursuits have included reusable photocatalyst composi
 --------------
 ## Graduate Students
 #### Alibek Kurbanov
-##### MASc - Chemical Engineering
+##### PhD - Chemical Engineering
 
 <p align="justify"><img style="margin-left: 1rem;margin-top: 0.5rem" align="right" src="/assets/Images/Alibek_Kurbanov_Headshot.jpg" width="280"> Alibek Kurbanov is from Turkmenistan and completed his B.Eng in Chemical Engineering at Tianjin University in China under a fully funded CSC scholarship. He has a background in photocatalysis with two co-authored publications on developing catalytic materials for hydrogen evolution from ammonia-borane (<a href="https://doi.org/10.1016/j.ijhydene.2023.03.218">IJHE, 2023</a>; <a href="https://doi.org/10.1016/j.jcis.2023.01.122">JCIS, 2023</a>).</p>
   
 <p align="justify">Alibek is currently pursuing his MASc in Chemical Engineering at McMaster University. His research focuses on developing floating carbon nitride-based photocatalysts for solar-driven hydrogen production and wastewater treatment. Outside the lab, Alibek is a table tennis player and regularly competes in local tournaments across Ontario. Alibek can be reached at <a href="mailto:kurbanoa@mcmaster.ca">kurbanoa@mcmaster.ca</a></p>
+
+#### Tomal Saha
+##### PhD - Chemical Engineering
+
+<p align="justify"><img style="margin-left: 1rem;margin-top: 0.5rem" align="right" src="/assets/Images/Tomal_Saha_Headshot.jpg" width="280">Tomal Saha is from Bangladesh and completed his B.Sc. in Materials and Metallurgical Engineering at BUET with Honors. His background includes work on photocatalysis and functional oxide materials, with a focus on synthesis and characterization techniques. He has worked on Gd-doped TiO₂ nanoparticles for photocatalytic environmental remediation and Er-substituted LaFeO₃ perovskite nanoparticles for pseudocapacitive energy storage, exploring defect engineering and charge transport in functional materials.
+He is currently pursuing his PhD in Chemical Engineering at McMaster University. His research interests focus on photocatalysis and electrochemical systems for sustainable energy and environmental applications, particularly in designing materials for solar-driven processes and efficient utilization of waste-derived resources.
+
 
 --------------
 ## Undergraduate Students
