@@ -15,7 +15,7 @@ Stuart's specific research pursuits have included reusable photocatalyst composi
 
 --------------
 ## Postdoctoral Fellows
-#### Kora Rakhsha
+#### Dr. Kora Rakhsha
 ##### PhD - Chemical Engineering (McMaster, 2025)
 
 <p align="justify"><img style="margin-left: 1rem;margin-top: 0.5rem" align="right" src="/assets/Images/Kora_Rakhsha_Headshot.jpg" width="280"> Kora joined the Linley Lab in February 2026 and is focused on developing photoelectrodes and photoelectrochemical devices for the green production of fuels and chemicals from waste materials. During his PhD, he worked extensively on electrochemical CO₂ conversion, tackling challenges in catalyst synthesis, electrode engineering, cell design for in situ/operando characterization, and membrane electrode assembly development (<a href="https://doi.org/10.1016/j.nanoen.2024.110457">Nano Energy, 2025</a>; <a href="https://doi.org/10.1038/s41467-024-45096-3">Nat. Comm., 2024</a>). He's always happy to nerd out about science, so feel free to reach out (<a href="mailto:rakhsha@mcmaster.ca">rakhsha@mcmaster.ca</a>).</p>
@@ -27,16 +27,16 @@ Stuart's specific research pursuits have included reusable photocatalyst composi
 #### Alibek Kurbanov
 ##### PhD - Chemical Engineering
 
-<p align="justify"><img style="margin-right: 1rem;margin-top: 0.5rem" align="left" src="/assets/Images/Alibek_Kurbanov_Headshot.jpg" width="280"> Alibek Kurbanov is from Turkmenistan and completed his B.Eng in Chemical Engineering at Tianjin University in China under a fully funded CSC scholarship. He has a background in photocatalysis with two co-authored publications on developing catalytic materials for hydrogen evolution from ammonia-borane (<a href="https://doi.org/10.1016/j.ijhydene.2023.03.218">IJHE, 2023</a>; <a href="https://doi.org/10.1016/j.jcis.2023.01.122">JCIS, 2023</a>).</p>
+<p align="justify"><img style="margin-right: 1rem;margin-top: 0.5rem" align="left" src="/assets/Images/Alibek_Kurbanov_Headshot.jpg" width="280"> Alibek Kurbanov is from Turkmenistan and completed his BEng in Chemical Engineering at Tianjin University in China under a fully funded CSC scholarship. He has a background in photocatalysis with two co-authored publications on developing catalytic materials for hydrogen evolution from ammonia-borane (<a href="https://doi.org/10.1016/j.ijhydene.2023.03.218">IJHE, 2023</a>; <a href="https://doi.org/10.1016/j.jcis.2023.01.122">JCIS, 2023</a>).</p>
   
 <p align="justify">Alibek is currently pursuing his MASc in Chemical Engineering at McMaster University. His research focuses on developing floating carbon nitride-based photocatalysts for solar-driven hydrogen production and wastewater treatment. Outside the lab, Alibek is a table tennis player and regularly competes in local tournaments across Ontario. Alibek can be reached at <a href="mailto:kurbanoa@mcmaster.ca">kurbanoa@mcmaster.ca</a></p>
 
 #### Tomal Saha
 ##### PhD - Chemical Engineering
 
-<p align="justify"><img style="margin-left: 1rem;margin-top: 0.5rem" align="right" src="/assets/Images/Tomal_Saha_Headshot.JPG" width="280">Tomal Saha is from Bangladesh and completed his B.Sc. in Materials and Metallurgical Engineering at BUET with Honors. His background includes work on photocatalysis and synthesis of functional oxide materials. He has worked on Gd-doped TiO₂ nanoparticles for photocatalytic environmental remediation and Er-substituted LaFeO₃ perovskite nanoparticles for pseudocapacitive energy storage , exploring defect engineering and charge transport in functional materials.</p>
+<p align="justify"><img style="margin-left: 1rem;margin-top: 0.5rem" align="right" src="/assets/Images/Tomal_Saha_Headshot.JPG" width="280">Tomal Saha is from Bangladesh and completed his BSc in Materials and Metallurgical Engineering at BUET with Honors. His background includes work on photocatalysis and synthesis of functional oxide materials such as Gd-doped TiO₂ nanoparticles for environmental remediation and Er-substituted LaFeO₃ perovskite nanoparticles for pseudocapacitive energy storage, exploring defect engineering and charge transport in functional materials.</p>
 
-<p align="justify">He is currently pursuing his PhD in Chemical Engineering at McMaster University. His research interests focus on photocatalysis and electrochemical systems for sustainable energy and environmental applications, particularly in designing materials for solar-driven processes and efficient utilization of waste-derived resources.</p>
+<p align="justify">He is currently pursuing his PhD in Chemical Engineering with research interests focused on photocatalysis and electrochemical systems for sustainable energy and environmental applications, particularly in designing materials for solar-driven processes and efficient utilization of waste-derived resources.</p>
 
 #### Emma Brakhwah
 ##### PhD - Chemical Engineering
