@@ -29,17 +29,21 @@ Stuart's specific research pursuits have included reusable photocatalyst composi
 
 <p align="justify"><img style="margin-right: 1rem;margin-top: 0.5rem" align="left" src="/assets/Images/Alibek_Kurbanov_Headshot.jpg" width="280"> Alibek Kurbanov is from Turkmenistan and completed his BEng in Chemical Engineering at Tianjin University in China under a fully funded CSC scholarship. He has a background in photocatalysis with two co-authored publications on developing catalytic materials for hydrogen evolution from ammonia-borane (<a href="https://doi.org/10.1016/j.ijhydene.2023.03.218">IJHE, 2023</a>; <a href="https://doi.org/10.1016/j.jcis.2023.01.122">JCIS, 2023</a>).</p>
   
-<p align="justify">Alibek is currently pursuing his MASc in Chemical Engineering at McMaster University. His research focuses on developing floating carbon nitride-based photocatalysts for solar-driven hydrogen production and wastewater treatment. Outside the lab, Alibek is a table tennis player and regularly competes in local tournaments across Ontario. Alibek can be reached at <a href="mailto:kurbanoa@mcmaster.ca">kurbanoa@mcmaster.ca</a></p>
+<p align="justify">Alibek is currently pursuing his PhD in Chemical Engineering at McMaster University. His research focuses on developing floating carbon nitride-based photocatalysts for solar-driven hydrogen production and wastewater treatment. Outside the lab, Alibek is a table tennis player and regularly competes in local tournaments across Ontario. Alibek can be reached at <a href="mailto:kurbanoa@mcmaster.ca">kurbanoa@mcmaster.ca</a></p>
+
+#### Emma Brakhwah
+##### PhD - Chemical Engineering
+
+<p align="justify"><img style="margin-left: 1rem;margin-top: 0.5rem" align="right" src="/assets/Images/Emma_Brakwah_Headshot.jpg" width="280"> Emma Kwarteng Brakwah is a clean-energy researcher with experience spanning catalysis, carbon capture, and materials utilization. She holds a BSc in Petrochemical Engineering from KNUST, Ghana (2020) and an MASc in Process Systems Engineering from the University of Regina (2023). Prior to her PhD, she worked at TerraFixing Inc. as a Junior Structured Adsorbent Analyst, carrying out laboratory testing to evaluate and optimize structured adsorbent beds for direct air capture in cold climates.</p>
+
+<p align="justify">She is currently a PhD student in Chemical Engineering where her research focuses on improving the efficiency of solar reforming for green hydrogen production. She is developing cost-effective, mild-temperature hydrothermal pretreatment methods to enhance biomass and plastic conversion and maximize hydrogen yields. Her work bridges materials engineering, catalysis, and reactor design, with the goal of scaling sustainable hydrogen technologies that are compatible with real-world waste streams.</p>
 
 #### Tomal Saha
 ##### PhD - Chemical Engineering
 
-<p align="justify"><img style="margin-left: 1rem;margin-top: 0.5rem" align="right" src="/assets/Images/Tomal_Saha_Headshot.JPG" width="280">Tomal Saha is from Bangladesh and completed his BSc in Materials and Metallurgical Engineering at BUET with Honors. His background includes work on photocatalysis and synthesis of functional oxide materials such as Gd-doped TiO₂ nanoparticles for environmental remediation and Er-substituted LaFeO₃ perovskite nanoparticles for pseudocapacitive energy storage, exploring defect engineering and charge transport in functional materials.</p>
+<p align="justify"><img style="margin-right: 1rem;margin-top: 0.5rem" align="left" src="/assets/Images/Tomal_Saha_Headshot.JPG" width="280">Tomal Saha is from Bangladesh and completed his BSc in Materials and Metallurgical Engineering at BUET with Honors. His background includes work on photocatalysis and synthesis of functional oxide materials such as Gd-doped TiO₂ nanoparticles for environmental remediation and Er-substituted LaFeO₃ perovskite nanoparticles for pseudocapacitive energy storage, exploring defect engineering and charge transport in functional materials.</p>
 
 <p align="justify">He is currently pursuing his PhD in Chemical Engineering with research interests focused on photocatalysis and electrochemical systems for sustainable energy and environmental applications, particularly in designing materials for solar-driven processes and efficient utilization of waste-derived resources.</p>
-
-#### Emma Brakhwah
-##### PhD - Chemical Engineering
 
 --------------
 ## Undergraduate Students
